@@ -10,7 +10,7 @@ There is 2 python files :
 -Classification
 -Regression
 
-Please use the goodreads_classification files. The regression files has been my first approach but we have decided to go try a classification to improve our results.
+Please use the goodreads_classification files. The regression files has been my first approach but we have decided to go for a classification to try toimprove our results.
 
 
 -------------------------------------------------------------------------------------------------------------

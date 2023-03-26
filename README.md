@@ -6,6 +6,13 @@ Introduction
 The project has been realised using a jupyter notebook. To reproduce the results, you need to open the python files and go through the different modules.
 You will need to install those following packages on your virtual environnement. To do so, you can use the requirement file.
 
+There is 2 python files : 
+-Classification
+-Regression
+
+Please use the goodreads_classification files. The regression files has been my first approach but we have decided to go try a classification to improve our results.
+
+
 -------------------------------------------------------------------------------------------------------------
 This repository contains the necessary libraries to conduct data analysis, data visualization, and machine learning tasks.
 
